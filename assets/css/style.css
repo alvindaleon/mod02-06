@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+/*BG IMAGE OPTIONAL
+.jumbotron {
+	background-image: url(../../assets/img/test1.jpg);
+	background-size: 100% 100%;
+}*/
