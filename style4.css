@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.cols {
+/*	border:1px solid black;*/
+	float: left;
+	background-color: #93DEFF; 
+}
+ 
+.container {
+	margin-top: 20px;
+}
+
+h4 {
+	text-decoration: underline;
+}
+
+.row {
+	height: 320px;
+
+}
+
+h4 {
+	margin-top: 15px;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+
+.col1 {
+	border:none; 
+}
+
+.container {
+	background-color: #93DEFF;
+
+}
+
+.row {
+	text-align: center;
+}
+
